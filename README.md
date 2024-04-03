@@ -1,5 +1,5 @@
-#Dijkstra's Algorithm Explained
-##
+# Dijkstra's Algorithm Explained
+
 
 ##Dijkstra's Algorithm Explained
 Dijkstra's Algorithm is a method used to find the shortest path between two points in a graph. It's like finding the fastest route from your house to the park!
