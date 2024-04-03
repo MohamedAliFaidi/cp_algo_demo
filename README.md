@@ -1,11 +1,11 @@
 # Dijkstra's Algorithm Explained
 
 
-##Dijkstra's Algorithm Explained
+## Dijkstra's Algorithm Explained
 Dijkstra's Algorithm is a method used to find the shortest path between two points in a graph. It's like finding the fastest route from your house to the park!
 
 
-##How it Works
+## How it Works
 
 1.Setup: Imagine our graph as a map with different locations (vertices) connected by roads (edges). Each road has a number on it, telling us how long it is (the weight).
 
@@ -48,7 +48,7 @@ This means it's 0 units from A to A (because we're already there!), 4 units from
 
 That's Dijkstra's Algorithm! It helps us find the shortest path on a map or any other network of connected places.
 
-##Usage
+## Usage
 To use Dijkstra's Algorithm in your JavaScript code, you can call the dijkstra function with your graph and the starting point. It will return an object showing the shortest distances to all other places.
 
 
