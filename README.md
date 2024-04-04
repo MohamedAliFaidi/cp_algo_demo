@@ -35,7 +35,7 @@ const graph = {
 If we start at place A, the algorithm will find the shortest distance from A to every other place:
 
 
-```
+```js
 {
    'A': 0,
    'B': 4,
